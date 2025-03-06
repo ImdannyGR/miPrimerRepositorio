@@ -1,0 +1,37 @@
+/*Esto es un comentario de una o varias lineas bro */
+
+body{
+    background-color: grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    flex-direction: column;
+    font-family: sans-serif;
+}
+.pDiferente{
+ background-color: cornflowerblue;
+}
+.negritaWe{
+    color: #218173;
+    /*turquesa #218173*/
+}
+
+/* colores */
+
+/*colores hexadecimales*/
+
+.textoCursiva{
+    color:rgb(245,160 ,10)
+}
+
+.divRGBA{
+    width: 400px;
+    background-color: rgba(11, 60, 8, 0.5);
+    padding: 20px;
+    margin-top: 50px;
+
+/* opacidad*/
+}
+
+/*hsl hve: tono, saturation: saturacion, ligthness: luminosidad*/
